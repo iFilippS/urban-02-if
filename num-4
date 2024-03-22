@@ -5,10 +5,10 @@ if a > b:
     print('a > b')
 
 if a > b and a > 0:
-    print('успех')
+    print('успех 1')
 
 if (a > b) and (a > 0 or b < 1000):
-    print('успех')
+    print('успех 2')
 
 if 5 < b and b < 10:
-    print('успех')
+    print('успех 3')
